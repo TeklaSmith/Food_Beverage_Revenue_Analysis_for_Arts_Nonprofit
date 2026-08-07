@@ -106,7 +106,7 @@ This multi-page query identifies the top-performing event for each of the compan
  
  <h2>🍿 PRODUCT ANALYTICS: Top Genre by Category</h2>
  
-**SQL Query:** [Top Genre by Category Query](SQL_Queries/top_item_by_category.sql)
+**SQL Query:** [Top Genre by Category Query](SQL_Queries/Top_Genre_by_Category_Query.sql)
  
 <b>Business Scenario</b>
  
